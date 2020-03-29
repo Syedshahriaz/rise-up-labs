@@ -1,0 +1,783 @@
+.admissionli img{
+	float: left;
+}
+.admissionli li img{
+	float: left;
+	margin-right: 2%;
+	margin-top: 2%;
+	margin-top: 4%;
+}
+.admissionli{
+        margin-left: 34%;
+        text-align: left;
+        margin-top: 2%;
+}
+
+.social3{
+	float: right;
+	margin-top: 0%;
+    margin-right: 8%;
+}
+
+#menu li .cantact{
+	padding-left: 0%;
+}
+#menu li .logo1{
+	padding-left: 0%;
+}
+
+
+@media only screen and (max-width: 1024px) and (min-width: 768px){
+
+}
+
+
+@media only screen and (max-width: 5000px) and (min-width: 1920px)  {
+
+	#menu li {
+    margin-top: 30%;
+	}
+	#dvNotifications {
+    margin-left: 8%;
+    margin-top: 37%;
+	}
+	.admissionli li {
+    margin-bottom: 0% !important;
+	}
+	.line2 img {
+    margin-left: 15%;
+	}
+
+}
+@media only screen and (max-width: 479px) and (min-width: 320px)  {
+
+	#menu li{
+		margin-top: 26px;
+	}
+	#menu li a {
+    	font-size: 12px;
+    	width: 75px;
+	}
+	#menu .showContainer {
+	    margin-top: -5px;
+	    line-height: 0px;
+	}
+	.condiv {
+	    width: 421px;
+	}
+
+	#menu li img{
+	width: 90px;
+    height: 47px;
+	}
+	.section0 h2 {
+    font-size: 20px;
+	}
+	.section0 h1 {
+    font-size: 22px;
+	}
+	.section0 a img {
+    width: 29%;
+	}
+	.showContainer a img{
+		width: 14%;
+		
+	}
+	.showContainer {
+	    display: none;
+	    border-bottom: 1px solid #fff;
+	    margin-top: 1px;
+	    margin-left: 14%;
+	    width: 92%;
+	}
+	.apply2 img {
+	    margin-top: 2%;
+	    width: 19%;
+	}
+
+	.section1 #servicestext {
+    padding-left: 27%;
+	font-size: 11px;
+	text-align: justify;
+	padding-top: 0%;
+	}
+	.section1 .serviceing img {
+	margin-left: 45%;
+	width: 16%;
+	margin-top: -9%;
+
+	}
+	.section1 h3 {
+	    margin-top: 1%;
+	}
+
+	.objective li {
+    font-size: 10px;
+	}
+	.timeline-heading a {
+    font-size: 8px;
+	}
+	.timeline-heading a {
+    font-size: 7px;
+	}
+	.social3 {;
+    margin-right: -36%;
+        padding-top: 5%;
+	}
+	.admissionli img {
+	    float: left;
+	    width: 22%;
+	}
+
+	.admissionli li img{
+	width: 12%;
+	}
+	.admissionli li p {
+	    margin-right: 0;
+	    width: 280px;
+	    font-size: 8px;
+	}
+	.line2 img {
+   margin-left: 26%;
+    margin-top: -16%;
+	}
+	.section2 .line2 img {
+   margin-left: 26%;
+    margin-top: -16%;
+	}
+		.timeline > li {
+	    margin-bottom: -10px;
+	    position: relative;
+	}
+	.timeline > li:not(.timeline-inverted) {
+	    padding-right: 41px;
+	    text-align: right;
+	}
+	.uk-link:hover, a:hover {
+	    color: #fff;
+	    text-decoration: none;
+	}
+	.social1 .share{
+	margin-top: 14%;
+	}
+	.beicon a {
+    font-size: 1em;
+	}
+	.cover {
+    width: 13%;
+	}
+	.admissionli li {
+    margin-bottom: 16%;
+	}
+	#menu li.active {
+    width: 93px;
+	}
+	
+	.showContainer{
+
+	}
+
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 980px) {
+	#dvNotifications {
+        margin-top: 64%;
+	}
+	#menu li {
+    margin-top: 50%;
+	}
+}
+/*For desktop*/
+@media only screen and (min-width: 1281px){
+	.section7 .timeline > li {
+	    font-size: 18px;
+	}
+	.section7 .timeline > li {
+	    margin-bottom: 2%;
+	    position: relative;
+	    font-size: 18px;
+	}
+	.section {
+	    background-position: center center !important;
+	    background-size: cover !important;
+	    background-repeat: no-repeat;
+	}
+	.profilespace {
+	    margin: 4%;
+	}
+	.profile .img-box p {
+	    font-size: 12px;
+	}
+	.profile .img-box ul h3 {
+	    font-size: 18px;
+	}
+	.profile {
+	    margin-top: 30px;
+	    margin-left: 2%;
+	}
+	.admissionli li {
+	    margin-bottom: 1%;
+	    float: left;
+	}
+	.admissionli li img {
+	    float: left;
+	    margin-right: 2%;
+	    margin-top: 2%;
+	    margin-top: 3%;
+	}
+	.admissionli li p {
+	    padding-left: 9%;
+	    padding-top: 3%;
+	}
+}
+@media only screen and (min-width: 1921px){
+	.admissionli li img {
+	    float: left;
+	    margin-right: 2%;
+	    margin-top: 2%;
+	    margin-top: 3%;
+	}
+	.admissionli li p {
+	    padding-left: 9%;
+	    padding-top: 3%;
+	}
+}
+/*For desktop*/
+@media only screen and (min-width: 1024px) and (max-width: 1280px) {
+	.timeline {
+	    margin: 0%;
+	}
+	.section {
+	    background-position: center center !important;
+	    background-size: cover !important;
+	    background-repeat: no-repeat;
+	}
+	#menu li{
+		margin-top: 26px;
+	}
+	#menu li a {
+    	font-size: 12px;
+    	width: 75px;
+	}
+	#menu .showContainer {
+	    margin-top: -5px;
+	    line-height: 0px;
+	}
+	.condiv {
+	    width: 421px;
+	}
+
+	#menu li img{
+		width: 90px;
+    	height: 47px;
+	}
+	.section0 h2 {
+    	font-size: 20px;
+	}
+	.section0 h1 {
+    	font-size: 22px;
+	}
+	.section0 a img {
+    	width: 19%;
+	}
+	.showContainer a img{
+		width: 14%;
+		
+	}
+	.showContainer {
+	    display: none;
+	    border-bottom: 1px solid #fff;
+	    margin-top: 1px;
+	    margin-left: 14%;
+	    width: 92%;
+	}
+	.apply2 {
+	    display: block;
+	    clear: both;
+	    text-align: right;
+	}
+	.apply2 img {
+	    margin-top: 0%;
+	    width: 12%;
+	    float: none;
+	}
+	.section1 #servicestext {
+    	padding-left: 27%;
+		font-size: 11px;
+		text-align: justify;
+		padding-top: 0%;
+	}
+	.section1 .serviceing img {
+	    margin-left: 45%;
+	    width: 4%;
+	    margin-top: 2%;
+	}
+	.section1 h3 {
+	    margin-top: 2%;
+	    margin-bottom: 2%;
+	}
+	.objective li {
+    	font-size: 10px;
+	}
+	.timeline-heading a {
+    	font-size: 8px;
+	}
+	.timeline-heading a {
+    	font-size: 8px;
+	}
+    .social3 {
+	    float: right;
+	    margin-top: 0%;
+	    margin-right: 8% !important;
+	    clear: both;
+	}
+	.mainbody {
+	    margin: 5% 4%;
+	}
+	.to-top {
+	    height: 5%;
+	}
+	.admissionli img {
+	    float: left;
+	    width: 12%;
+	}
+
+	.admissionli li img{
+		width: 11%;
+		margin-top: 0%;
+	}
+	.admissionli li p {
+	    margin-right: 0;
+	    width: 280px;
+	    font-size: 8px;
+	}
+	.line2 img {
+   		margin-left: 26%;
+    	margin-top: -16%;
+	}
+	.section2 .line2 img {
+   		margin-left: 26%;
+    	margin-top: -16%;
+	}
+	.timeline > li {
+	    margin-bottom: 20px;
+	    position: relative;
+	}
+	.to-bottom {
+	    height: 5%;
+	    bottom: -20px;
+	}
+	.timeline > li.timeline-inverted {
+	    padding-left: 40px;
+	}
+	.timeline > li:not(.timeline-inverted) {
+	    padding-right: 41px;
+	    text-align: right;
+	}
+	.uk-link:hover, a:hover {
+	    color: #fff;
+	    text-decoration: none;
+	}
+	.social1 .share{
+		margin-top: 14%;
+	}
+	.beicon a {
+    	font-size: 1em;
+	}
+	.beicon1, .beicon2, .beicon3{
+		padding-left: 30%;
+		margin-right: 0;
+		text-align: left;
+	}
+	.profile {
+	    margin-top: 10px;
+	    margin-left: 0%;
+	    max-width: 130px;
+	}
+	.img-box ul h3 {
+	    font-size: 10px;
+	}
+	.img-box ul p {
+		font-size: 8px;
+	}
+	.img-box ul {
+	    bottom: 60%;
+	}
+	.mainbody2 h1 a {
+	    font-size: 25px;
+	}
+	.mainbody2 h1 a {
+	    font-size: 25px;
+	}
+	.cover {
+    	width: 13%;
+	}
+	.admissionli li {
+	    margin-bottom: 5%;
+	}
+	#menu li.active {
+    	width: 93px;
+	}
+	
+	.showContainer{
+
+	}
+}
+
+@media only screen and (min-width: 1100px) and (max-width: 1155px){
+	.admissionli img {
+	    float: left;
+	    width: 13%;
+	}
+}
+/*For Tablet*/
+@media only screen and (min-width: 720px) and (max-width: 1023px) {
+	.section {
+	    background-position: center center !important;
+	    background-size: cover !important;
+	    background-repeat: no-repeat;
+	}
+	#menu li{
+		margin-top: 26px;
+	}
+	#menu li a {
+    	font-size: 12px;
+    	width: 75px;
+	}
+	#menu .showContainer {
+	    margin-top: -5px;
+	    line-height: 0px;
+	}
+	.condiv {
+	    width: 421px;
+	}
+
+	#menu li img{
+		width: 90px;
+    	height: 47px;
+	}
+	.section0 h2 {
+    	font-size: 20px;
+	}
+	.section0 h1 {
+    	font-size: 22px;
+	}
+	.section0 a img {
+    	width: 19%;
+	}
+	.showContainer a img{
+		width: 14%;
+		
+	}
+	.showContainer {
+	    display: none;
+	    border-bottom: 1px solid #fff;
+	    margin-top: 1px;
+	    margin-left: 14%;
+	    width: 92%;
+	}
+	.apply2 {
+	    display: block;
+	    clear: both;
+	    text-align: right;
+	}
+	.apply2 img {
+	    margin-top: 0%;
+	    width: 19%;
+	    float: none;
+	}
+	.section1 #servicestext {
+    	padding-left: 27%;
+		font-size: 11px;
+		text-align: justify;
+		padding-top: 0%;
+	}
+	.section1 .serviceing img {
+	    margin-left: 45%;
+	    width: 16%;
+	    margin-top: 2%;
+	}
+	.section1 h3 {
+	    margin-top: 2%;
+	    margin-bottom: 2%;
+	}
+	.objective li {
+    	font-size: 10px;
+	}
+	.timeline-heading a {
+    	font-size: 8px;
+	}
+	.timeline-heading a {
+    	font-size: 8px;
+	}
+    .social3 {
+	    float: right;
+	    margin-top: 0%;
+	    margin-right: 8% !important;
+	    clear: both;
+	}
+	.mainbody {
+	    margin: 5% 4%;
+	}
+	.to-top {
+	    height: 5%;
+	}
+	.admissionli img {
+	    float: left;
+	    width: 22%;
+	}
+
+	.admissionli li img{
+		width: 12%;
+		margin-top: 0%;
+	}
+	.admissionli li p {
+	    margin-right: 0;
+	    width: 280px;
+	    font-size: 8px;
+	}
+	.line2 img {
+   		margin-left: 26%;
+    	margin-top: -16%;
+	}
+	.section2 .line2 img {
+   		margin-left: 26%;
+    	margin-top: -16%;
+	}
+	.timeline > li {
+	    margin-bottom: 20px;
+	    position: relative;
+	}
+	.to-bottom {
+	    height: 5%;
+	    bottom: -20px;
+	}
+	.timeline > li.timeline-inverted {
+	    padding-left: 40px;
+	}
+	.timeline > li:not(.timeline-inverted) {
+	    padding-right: 41px;
+	    text-align: right;
+	}
+	.uk-link:hover, a:hover {
+	    color: #fff;
+	    text-decoration: none;
+	}
+	.social1 .share{
+		margin-top: 14%;
+	}
+	.beicon a {
+    	font-size: 1em;
+	}
+	.beicon1, .beicon2, .beicon3{
+		padding-left: 30%;
+		margin-right: 0;
+		text-align: left;
+	}
+	.profile {
+	    margin-top: 10px;
+	    margin-left: 0%;
+	    max-width: 130px;
+	}
+	.img-box ul h3 {
+	    font-size: 10px;
+	}
+	.img-box ul p {
+		font-size: 8px;
+	}
+	.img-box ul {
+	    bottom: 60%;
+	}
+	.mainbody2 h1 a {
+	    font-size: 25px;
+	}
+	.mainbody2 h1 a {
+	    font-size: 25px;
+	}
+	.cover {
+    	width: 13%;
+	}
+	.admissionli li {
+	    margin-bottom: 14%;
+	}
+	#menu li.active {
+    	width: 93px;
+	}
+	
+	.showContainer{
+
+	}
+}
+/*For Android*/
+@media only screen and (min-width: 480px) and (max-width: 719px) {
+	#menu li{
+		margin-top: 26px;
+	}
+	#menu li a {
+    	font-size: 12px;
+    	width: 75px;
+	}
+	#menu .showContainer {
+	    margin-top: -5px;
+	    line-height: 0px;
+	}
+	.condiv {
+	    width: 421px;
+	}
+
+	#menu li img{
+		width: 90px;
+    	height: 47px;
+	}
+	.section0 h2 {
+    	font-size: 20px;
+	}
+	.section0 h1 {
+    	font-size: 22px;
+	}
+	.section0 a img {
+    	width: 19%;
+	}
+	.showContainer a img{
+		width: 14%;
+		
+	}
+	.showContainer {
+	    display: none;
+	    border-bottom: 1px solid #fff;
+	    margin-top: 1px;
+	    margin-left: 14%;
+	    width: 92%;
+	}
+	.apply2 {
+	    display: block;
+	    clear: both;
+	    text-align: right;
+	}
+	.apply2 img {
+	    margin-top: 0%;
+	    width: 19%;
+	    float: none;
+	}
+	.section1 #servicestext {
+    	padding-left: 27%;
+		font-size: 11px;
+		text-align: justify;
+		padding-top: 0%;
+	}
+	.section1 .serviceing img {
+	    margin-left: 45%;
+	    width: 16%;
+	    margin-top: 2%;
+	}
+	.section1 h3 {
+	    margin-top: 2%;
+	    margin-bottom: 2%;
+	}
+	.objective li {
+    	font-size: 10px;
+	}
+	.timeline-heading a {
+    	font-size: 8px;
+	}
+	.timeline-heading a {
+    	font-size: 8px;
+	}
+    .social3 {
+	    float: right;
+	    margin-top: 0%;
+	    margin-right: 8% !important;
+	    clear: both;
+	}
+	.mainbody {
+	    margin: 10% 4%;
+	}
+	.to-top {
+	    height: 5%;
+	}
+	.admissionli img {
+	    float: left;
+	    width: 22%;
+	}
+
+	.admissionli li img{
+		width: 12%;
+	}
+	.admissionli li p {
+	    margin-right: 0;
+	    width: 280px;
+	    font-size: 8px;
+	}
+	.line2 img {
+   		margin-left: 26%;
+    	margin-top: -16%;
+	}
+	.section2 .line2 img {
+   		margin-left: 26%;
+    	margin-top: -16%;
+	}
+	.timeline > li {
+	    margin-bottom: 20px;
+	    position: relative;
+	}
+	.to-bottom {
+	    height: 5%;
+	    bottom: -20px;
+	}
+	.timeline > li.timeline-inverted {
+	    padding-left: 40px;
+	}
+	.timeline > li:not(.timeline-inverted) {
+	    padding-right: 41px;
+	    text-align: right;
+	}
+	.uk-link:hover, a:hover {
+	    color: #fff;
+	    text-decoration: none;
+	}
+	.social1 .share{
+		margin-top: 14%;
+	}
+	.beicon a {
+    	font-size: 1em;
+	}
+	.beicon1, .beicon2, .beicon3{
+		padding-left: 30%;
+		margin-right: 0;
+		text-align: left;
+	}
+	.profile {
+	    margin-top: 10px;
+	    margin-left: 0%;
+	    max-width: 130px;
+	}
+	.img-box ul h3 {
+	    font-size: 10px;
+	}
+	.img-box ul p {
+		font-size: 8px;
+	}
+	.img-box ul {
+	    bottom: 60%;
+	}
+	.mainbody2 h1 a {
+	    font-size: 25px;
+	}
+	.mainbody2 h1 a {
+	    font-size: 25px;
+	}
+	.cover {
+    	width: 13%;
+	}
+	.admissionli li {
+	    margin-bottom: 12%;
+	}
+	#menu li.active {
+    	width: 93px;
+	}
+	
+	.showContainer{
+
+	}
+
+}
